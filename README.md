@@ -6,3 +6,7 @@ i was happy about this command cause i made the button without having more 3 err
 anywyas you can use this command to your bot and have a slashcommand meme with buttons ;p 
 
 thank you!
+
+- Preview
+
+![preview](https://media.discordapp.net/attachments/968718431409033246/974315193360351302/unknown.png)
