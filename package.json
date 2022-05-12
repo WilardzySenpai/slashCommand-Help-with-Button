@@ -1,0 +1,33 @@
+{
+  "name": "H_M",
+  "version": "1.5.0",
+  "description": "A discord music bot using distube npm that has many features like slashCommands, filter, infinite volume and more! It also support Spotify and SoundCloud using Distube plugins.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^17.7.2"
+  },
+  "keywords": [],
+  "author": "はちき#3819",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.2.0",
+    "express": "^4.18.1",
+    "glob": "^7.1.7",
+    "node-fetch": "^2.6.1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilardzySenpai/H_M.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WilardzySenpai/H_M/issues"
+  },
+  "homepage": "https://github.com/WilardzySenpai/H_M#readme",
+  "devDependencies": {
+    "node": "^17.7.2"
+  }
+}
