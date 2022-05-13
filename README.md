@@ -9,7 +9,7 @@ thank you!
 
 - Preview
 
-![preview](https://media.discordapp.net/attachments/968718431409033246/974315193360351302/unknown.png)
+![preview](https://media.discordapp.net/attachments/974695467298471989/974700715895291914/help.gif)
 
 ## Needs
 - Node v16 or higher
