@@ -1,12 +1,6 @@
-# slashCommand-Meme-with-Button
+# slashCommand-Help-with-Button
 
-This command is one of my command on my New Music bot coming out which is H_M ;p
-i was happy about this command cause i made the button without having more 3 error's 
-
-anywyas you can use this command to your bot and have a slashcommand meme with buttons ;p 
-
-thank you!
-
+simple help slash command with buttons paginate ;p
 - Preview
 
 ![preview](https://media.discordapp.net/attachments/974695467298471989/974700715895291914/help.gif)
