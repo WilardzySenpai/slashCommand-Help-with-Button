@@ -84,7 +84,7 @@ module.exports = {
 
       await interaction.followUp({ embeds: [homeembed], components: [btnraw] }).then(async (msg) => {
         let filter = i => i.user.id === interaction.user.id;
-        let collector = await msg.createMessageComponentCollector({filter : filter, time : 5000 });
+        let collector = await msg.createMessageComponentCollector({filter : filter, time : 10000 }); // time when the get disable
         collector.on('collect', async (btn) => {
           if(btn.isButton()) {
             if(btn.customId === "info") {
@@ -108,4 +108,3 @@ module.exports = {
       })
     },
 };
-
